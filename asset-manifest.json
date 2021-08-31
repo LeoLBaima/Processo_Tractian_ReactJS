@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Processo_Tractian_ReactJS/static/css/main.f1769e1d.chunk.css",
-    "main.js": "/Processo_Tractian_ReactJS/static/js/main.074bba0c.chunk.js",
-    "main.js.map": "/Processo_Tractian_ReactJS/static/js/main.074bba0c.chunk.js.map",
+    "main.css": "/Processo_Tractian_ReactJS/static/css/main.4625494b.chunk.css",
+    "main.js": "/Processo_Tractian_ReactJS/static/js/main.7bc97193.chunk.js",
+    "main.js.map": "/Processo_Tractian_ReactJS/static/js/main.7bc97193.chunk.js.map",
     "runtime-main.js": "/Processo_Tractian_ReactJS/static/js/runtime-main.0368f0f4.js",
     "runtime-main.js.map": "/Processo_Tractian_ReactJS/static/js/runtime-main.0368f0f4.js.map",
-    "static/js/2.3aacd45d.chunk.js": "/Processo_Tractian_ReactJS/static/js/2.3aacd45d.chunk.js",
-    "static/js/2.3aacd45d.chunk.js.map": "/Processo_Tractian_ReactJS/static/js/2.3aacd45d.chunk.js.map",
+    "static/js/2.66ff4d7f.chunk.js": "/Processo_Tractian_ReactJS/static/js/2.66ff4d7f.chunk.js",
+    "static/js/2.66ff4d7f.chunk.js.map": "/Processo_Tractian_ReactJS/static/js/2.66ff4d7f.chunk.js.map",
     "index.html": "/Processo_Tractian_ReactJS/index.html",
-    "static/css/main.f1769e1d.chunk.css.map": "/Processo_Tractian_ReactJS/static/css/main.f1769e1d.chunk.css.map",
-    "static/js/2.3aacd45d.chunk.js.LICENSE.txt": "/Processo_Tractian_ReactJS/static/js/2.3aacd45d.chunk.js.LICENSE.txt"
+    "static/css/main.4625494b.chunk.css.map": "/Processo_Tractian_ReactJS/static/css/main.4625494b.chunk.css.map",
+    "static/js/2.66ff4d7f.chunk.js.LICENSE.txt": "/Processo_Tractian_ReactJS/static/js/2.66ff4d7f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0368f0f4.js",
-    "static/js/2.3aacd45d.chunk.js",
-    "static/css/main.f1769e1d.chunk.css",
-    "static/js/main.074bba0c.chunk.js"
+    "static/js/2.66ff4d7f.chunk.js",
+    "static/css/main.4625494b.chunk.css",
+    "static/js/main.7bc97193.chunk.js"
   ]
 }
