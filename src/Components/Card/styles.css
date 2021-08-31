@@ -1,0 +1,49 @@
+.card {
+    height: 220px;
+    width: 280px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+
+    background: #474747;
+
+    border-radius: 10px;
+    overflow: hidden;
+
+    transition: 0.2s;
+    cursor: pointer;
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.card:hover {
+    opacity: 0.8;
+}
+.card img {
+    margin-top: -12px;
+
+    height: 260px;
+    width: 340px;
+}
+
+.link-card {
+    text-decoration: none;
+    color: black;
+}
+
+.card-title {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: lighter;
+    color: #000;
+    font-size: 25px;
+
+    display: flex;
+    justify-content: center;
+    vertical-align: center;
+}
