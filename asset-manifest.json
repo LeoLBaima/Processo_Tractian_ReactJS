@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.f1769e1d.chunk.css",
-    "main.js": "/github-page/static/js/main.074bba0c.chunk.js",
-    "main.js.map": "/github-page/static/js/main.074bba0c.chunk.js.map",
-    "runtime-main.js": "/github-page/static/js/runtime-main.d5cbf590.js",
-    "runtime-main.js.map": "/github-page/static/js/runtime-main.d5cbf590.js.map",
-    "static/js/2.3aacd45d.chunk.js": "/github-page/static/js/2.3aacd45d.chunk.js",
-    "static/js/2.3aacd45d.chunk.js.map": "/github-page/static/js/2.3aacd45d.chunk.js.map",
-    "index.html": "/github-page/index.html",
-    "static/css/main.f1769e1d.chunk.css.map": "/github-page/static/css/main.f1769e1d.chunk.css.map",
-    "static/js/2.3aacd45d.chunk.js.LICENSE.txt": "/github-page/static/js/2.3aacd45d.chunk.js.LICENSE.txt"
+    "main.css": "/Processo_Tractian_ReactJS/static/css/main.f1769e1d.chunk.css",
+    "main.js": "/Processo_Tractian_ReactJS/static/js/main.074bba0c.chunk.js",
+    "main.js.map": "/Processo_Tractian_ReactJS/static/js/main.074bba0c.chunk.js.map",
+    "runtime-main.js": "/Processo_Tractian_ReactJS/static/js/runtime-main.0368f0f4.js",
+    "runtime-main.js.map": "/Processo_Tractian_ReactJS/static/js/runtime-main.0368f0f4.js.map",
+    "static/js/2.3aacd45d.chunk.js": "/Processo_Tractian_ReactJS/static/js/2.3aacd45d.chunk.js",
+    "static/js/2.3aacd45d.chunk.js.map": "/Processo_Tractian_ReactJS/static/js/2.3aacd45d.chunk.js.map",
+    "index.html": "/Processo_Tractian_ReactJS/index.html",
+    "static/css/main.f1769e1d.chunk.css.map": "/Processo_Tractian_ReactJS/static/css/main.f1769e1d.chunk.css.map",
+    "static/js/2.3aacd45d.chunk.js.LICENSE.txt": "/Processo_Tractian_ReactJS/static/js/2.3aacd45d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5cbf590.js",
+    "static/js/runtime-main.0368f0f4.js",
     "static/js/2.3aacd45d.chunk.js",
     "static/css/main.f1769e1d.chunk.css",
     "static/js/main.074bba0c.chunk.js"
