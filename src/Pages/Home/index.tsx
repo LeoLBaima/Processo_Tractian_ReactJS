@@ -179,62 +179,68 @@ export function Home() {
 
             <h1 className="title">Empresas</h1>
             <table className="table">
-                <tr>
-                    <th>Empresa</th>
-                    <th>Id</th>
-                </tr>
-                {companies.map(companie => {
-                    return (
-                        <>
-                            <tr>
-                                <td>{companie.name}</td>
-                                <td>{companie.id}</td>
-                            </tr>
-                        </>
-                    )
-                })}
+                <tbody>
+                    <tr>
+                        <th>Empresa</th>
+                        <th>Id</th>
+                    </tr>
+                    {companies.map(companie => {
+                        return (
+                            <>
+                                <tr>
+                                    <td>{companie.name}</td>
+                                    <td>{companie.id}</td>
+                                </tr>
+                            </>
+                        )
+                    })}
+                </tbody>
             </table>
 
             <h1 className="title">Usuários</h1>
             <table className="table">
-                <tr>
-                    <th>Nome</th>
-                    <th>email</th>
-                    <th>Company Id</th>
-                    <th>Id</th>
-                </tr>
-                {users.map(user => {
-                    return (
-                        <>
-                            <tr>
-                                <td>{user.name}</td>
-                                <td>{user.email}</td>
-                                <td>{user.companyId}</td>
-                                <td>{user.id}</td>
-                            </tr>
-                        </>
-                    )
-                })}
+                <tbody>
+                    <tr>
+                        <th>Nome</th>
+                        <th>email</th>
+                        <th>Company Id</th>
+                        <th>Id</th>
+                    </tr>
+                    {users.map(user => {
+                        return (
+                            <>
+                                <tr>
+                                    <td>{user.name}</td>
+                                    <td>{user.email}</td>
+                                    <td>{user.companyId}</td>
+                                    <td>{user.id}</td>
+                                </tr>
+                            </>
+                        )
+                    })}
+                </tbody>
             </table>
 
             <h1 className="title">Unidades</h1>
             <table className="table">
-                <tr>
-                    <th>Nome</th>
-                    <th>Company Id</th>
-                    <th>Id</th>
-                </tr>
-                {units.map(unit => {
-                    return (
-                        <>
-                            <tr>
-                                <td>{unit.name}</td>
-                                <td>{unit.companyId}</td>
-                                <td>{unit.id}</td>
-                            </tr>
-                        </>
-                    )
-                })}
+                <tbody>
+                    <tr>
+                        <th>Nome</th>
+                        <th>Company Id</th>
+                        <th>Id</th>
+                    </tr>
+                    {units.map(unit => {
+                        return (
+                            <>
+                                <tr>
+                                    <td>{unit.name}</td>
+                                    <td>{unit.companyId}</td>
+                                    <td>{unit.id}</td>
+                                </tr>
+                            </>
+                        )
+                    })}
+                </tbody>
             </table>
 
             <div className="charts-container">
