@@ -1,7 +1,7 @@
 {
   "name": "tractian",
   "version": "0.1.0",
-  "homepage": "github-page/",
+  "homepage": "Processo_Tractian_ReactJS/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
