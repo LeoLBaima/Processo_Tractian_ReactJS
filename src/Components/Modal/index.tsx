@@ -44,14 +44,16 @@ export function Modal(props: Functions & Assets) {
                         <li >Company id: {props?.companyId}</li>
                     </ul>
 
-                    <input className="input-modal" type="number" placeholder="Insira a temperatura máxima"
+                    <input
+                        className="input-modal"
+                        type="number"
+                        placeholder="Insira a temperatura máxima"
                         onChange={(e) => {
                             const tempInput = parseInt(e.target.value)
                             setTemp(tempInput)
-
                         }}
-                    >
-                    </input>
+                    />
+
 
 
                 </div>
